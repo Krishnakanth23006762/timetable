@@ -122,4 +122,11 @@ Execute the program
 </html>
 
 
-# OUPUT
+# OUTPUT:
+
+### 
+![timetable](timetable.PNG)
+
+
+
+
