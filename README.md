@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE:
-
+```
 <!DOCTYPE html>
 <head>
 <title>SEC SLOT TIMETABLE</title>
@@ -120,7 +120,7 @@ Execute the program
         </tr>
 </body>
 </html>
-
+```
 
 # OUTPUT:
 
